@@ -51,12 +51,12 @@
 
 - name: Simon Li
   handle: "manics"
-  affiliation: University of Dundee
+  affiliation: DARE UK / Health Data Research UK
   contributions: code,question
   focus: jupyterhub
   teams:
     - council
-  last-check-in: 2022-09
+  last-check-in: 2026-09
 
 - name: Ryan Lovett
   handle: ryanlovett
